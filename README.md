@@ -35,6 +35,3 @@ Vectorized machine learning algorithms.
 
 ### Supervised v Unsupervised Learning
 While the former solves for explicit unknowns, via discreet or continuous fashion, unsupervised techniques identify patterns autonomously. Possible algorithms differ variably from the aforementioned, computing metrics like similarity (e.g. via gaussian kernel), and distance (e.g. via k-means), for detect, rank, cluster, and extract functions.
-
-## library
-##### machl is released as open source under [the MIT license](https://github.com/hhdb/machl/blob/master/LICENSE), (c) 2015 HH Dib.
